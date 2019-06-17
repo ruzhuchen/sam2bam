@@ -21,6 +21,8 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 # DEALINGS IN THE SOFTWARE.
 
+# Modified from original
+
 BLD=build
 rm -rf ${BLD}
 mkdir -p ${BLD}
