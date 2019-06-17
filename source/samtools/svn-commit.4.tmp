@@ -1,0 +1,5 @@
+Support hg38
+--This line, and those below, will be ignored--
+
+M    bam_sam2bam.c
+M    bam_sam2bam.h
